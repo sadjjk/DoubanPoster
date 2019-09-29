@@ -1,6 +1,6 @@
 # 豆瓣书单分享海报(仿电影海报)
-
-[Github](https://github.com/sadjjk/DoubanPoster) 
+ 
+[博客Blog](https://blog.wangjy.xyz/)
 
 ### 0x00前言
 
