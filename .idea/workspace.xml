@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="825f95a0-5430-4646-b7c1-b9071d57f3b2" name="Default Changelist" comment="" />
+    <list default="true" id="825f95a0-5430-4646-b7c1-b9071d57f3b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/doubanposter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookspider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/msyh.ttc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/msyhl.ttc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/star_mid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/star_no.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/star_yes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/template.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moviespider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bookspider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="110" column="15" lean-forward="true" selection-start-line="110" selection-start-column="15" selection-end-line="110" selection-end-column="15" />
+            <state relative-caret-position="156">
+              <caret line="108" column="27" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -167,6 +185,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -300,12 +319,12 @@
       <updated>1566365574691</updated>
       <workItem from="1566365576075" duration="28361000" />
       <workItem from="1566891109054" duration="361000" />
-      <workItem from="1569745473794" duration="1167000" />
+      <workItem from="1569745473794" duration="1182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29889000" />
+    <option name="totallyTimeSpent" value="29904000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -330,7 +349,7 @@
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.5875576" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.37671232" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.37671232" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.43087557" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -466,8 +485,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bookspider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="110" column="15" lean-forward="true" selection-start-line="110" selection-start-column="15" selection-end-line="110" selection-end-column="15" />
+        <state relative-caret-position="156">
+          <caret line="108" column="27" selection-start-line="108" selection-start-column="27" selection-end-line="108" selection-end-column="27" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
